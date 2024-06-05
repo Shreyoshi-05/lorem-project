@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color:#ffe6d6;
+  box-sizing: border-box;
+}
+form button{
+  background-color: #f5873d;
+}
+form input{
+  margin: 10px;
+  background-color: aliceblue;
+}
+.main{
+  width: 90vw;
+  margin: auto;
+  text-align: center;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+}
+.main h1{
+  text-align: center;
+}
+form{
+  text-align: center;
+  margin: 40px;
+}
+article{
+  width: 60%;
+  margin: auto;
+}
+.innerP{
+  margin-top: 40px;
+
+}
